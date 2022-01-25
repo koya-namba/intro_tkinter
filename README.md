@@ -1,0 +1,2 @@
+# intro_tkinter
+Pythonでデスクトップアプリを作る練習用レポジトリ
